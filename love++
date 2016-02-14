@@ -1,0 +1,19 @@
+#include<boy.h>
+#include<girl.h>
+void main()
+{
+int love;
+if(love==ok)
+printf("I LOVE YOU");
+else
+{
+printf("SERUPU");
+escape();
+}
+}
+
+
+
+
+output:
+  next figure
